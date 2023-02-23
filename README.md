@@ -61,7 +61,7 @@ The login is an area where user can create and login with just a username.
 The translation is an area where user can input text which will translate into sign language.
 The profile is an area where user can see the history of his translations and has the option to clear the entire history.
 
-See [React_Lost in Translation.pdf](https://github.com/AhmadKhodabaks/Komputer-Store-App/blob/master/JavaScript_Komputer%20Store%20App.pdf) for more detailed requirements for this assignment.
+See [React_Lost in Translation.pdf](https://github.com/AhmadKhodabaks/react-lost-in-translation/blob/master/React_Lost%20in%20Translation.pdf) for more detailed requirements for this assignment.
 
 Created by Ahmad Khodabaks.
 
@@ -69,7 +69,7 @@ Created by Ahmad Khodabaks.
 
 ### Built With
 
-- JavaScript (vanilla)
+- JavaScript
 - [![React][React.js]][React-url]
 <!--- [![Vue][vue.js]][vue-url]
 - [![Angular][angular.io]][angular-url]
@@ -84,13 +84,19 @@ Created by Ahmad Khodabaks.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/AhmadKhodabaks/Komputer-Store-App.git
+   git clone https://github.com/AhmadKhodabaks/react-lost-in-translation.git
    ```
 2. Run the following command in your CLI to install the required dependecies on your localhost.
    ```sh
    npm install
    ```
-3. Run the following command in your CLI to run on localhost.
+3. It is important that you set your API key and url in a file. You can use Noroff Assignment API.
+   ```sh
+   https://github.com/dewald-els/noroff-assignment-api
+   REACT_APP_API_KEY=
+   REACT_APP_API_URL=
+   ```   
+4. Run the following command in your CLI to run on localhost.
    ```sh
    npm run
    ```
