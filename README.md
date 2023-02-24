@@ -63,7 +63,7 @@ The profile is an area where user can see the history of his translations and ha
 
 See [React_Lost in Translation.pdf](https://github.com/AhmadKhodabaks/react-lost-in-translation/blob/master/React_Lost%20in%20Translation.pdf) for more detailed requirements for this assignment.
 
-Created by Ahmad Khodabaks.
+Created by Ahmad Khodabaks & Meg Stefouli.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,6 +110,7 @@ It will run the app in the development mode. Open http://localhost:3000 to view 
 ## Maintainers
 
 - [Ahmad Khodabaks](https://www.linkedin.com/in/ahmad-khodabaks/)
+- [Meg Stefouli](https://www.linkedin.com/in/meg-stefuli-b5310a13/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
